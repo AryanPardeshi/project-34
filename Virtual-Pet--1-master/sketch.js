@@ -1,5 +1,5 @@
 //Create variables here
-var dog;
+var dog = createSprite(10,10,125,125);
 var dogImg, dogHappyImg;
 function preload()
 {
